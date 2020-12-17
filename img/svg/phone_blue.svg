@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56.64" height="102" viewBox="0 0 56.64 102">
+  <g id="Grupo_233" data-name="Grupo 233" transform="translate(-685.461 -142.783)">
+    <path id="Trazado_339" data-name="Trazado 339" d="M733.412,143.783H693.735a7.3,7.3,0,0,0-7.274,7.274v4.973h54.226v-4.973A7.3,7.3,0,0,0,733.412,143.783Z" fill="#837dbd" fill-rule="evenodd"/>
+    <path id="Trazado_340" data-name="Trazado 340" d="M740.687,229.59H686.461v6.918a7.3,7.3,0,0,0,7.274,7.275h39.677a7.3,7.3,0,0,0,7.275-7.275V229.59Zm-31.011,7.135a3.9,3.9,0,1,1,3.9,3.9A3.9,3.9,0,0,1,709.676,236.725Z" fill="#837dbd" fill-rule="evenodd"/>
+    <g id="Grupo_175" data-name="Grupo 175">
+      <g id="Grupo_174" data-name="Grupo 174">
+        <path id="Rectángulo_87" data-name="Rectángulo 87" d="M7.275,0H46.952a7.274,7.274,0,0,1,7.274,7.274V92.725A7.275,7.275,0,0,1,46.951,100H7.275A7.275,7.275,0,0,1,0,92.725V7.275A7.275,7.275,0,0,1,7.275,0Z" transform="translate(686.461 143.783)" fill="none" stroke="#666" stroke-miterlimit="22.926" stroke-width="2"/>
+        <line id="Línea_121" data-name="Línea 121" x2="54.226" transform="translate(686.461 229.59)" fill="none" stroke="#666" stroke-miterlimit="22.926" stroke-width="2"/>
+        <line id="Línea_122" data-name="Línea 122" x2="54.226" transform="translate(686.461 156.029)" fill="none" stroke="#666" stroke-miterlimit="22.926" stroke-width="2"/>
+        <line id="Línea_123" data-name="Línea 123" x2="19.569" transform="translate(703.789 150.253)" fill="none" stroke="#666" stroke-linecap="round" stroke-miterlimit="22.926" stroke-width="2"/>
+      </g>
+      <line id="Línea_124" data-name="Línea 124" x1="9.81" y2="9.81" transform="translate(730.877 169.04)" fill="none" stroke="#666" stroke-linecap="round" stroke-miterlimit="22.926" stroke-width="2"/>
+      <line id="Línea_125" data-name="Línea 125" x1="33.679" y2="33.68" transform="translate(707.008 157.96)" fill="none" stroke="#666" stroke-linecap="round" stroke-miterlimit="22.926" stroke-width="2"/>
+      <line id="Línea_126" data-name="Línea 126" x1="8.237" y2="8.237" transform="translate(718.443 183.146)" fill="none" stroke="#666" stroke-linecap="round" stroke-miterlimit="22.926" stroke-width="2"/>
+    </g>
+    <path id="Trazado_341" data-name="Trazado 341" d="M717.471,236.725a3.9,3.9,0,1,0-3.9,3.9A3.9,3.9,0,0,0,717.471,236.725Z" fill="none" stroke="#666" stroke-miterlimit="22.926" stroke-width="2" fill-rule="evenodd"/>
+  </g>
+</svg>

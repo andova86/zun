@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="111.171" height="101.866" viewBox="0 0 111.171 101.866">
+  <g id="Grupo_239" data-name="Grupo 239" transform="translate(-958.192 -405.707)">
+    <path id="Trazado_388" data-name="Trazado 388" d="M1063.545,406.812l-99.721-.22c-4,0-4.629.021-4.629,4.019v12.7h109.169V411.452C1068.364,407.454,1067.541,406.812,1063.545,406.812Z" transform="translate(0 0)" fill="#837dbd" fill-rule="evenodd"/>
+    <path id="Rectángulo_144" data-name="Rectángulo 144" d="M3.36,0H105.81a3.361,3.361,0,0,1,3.361,3.361V96.506a3.36,3.36,0,0,1-3.36,3.36H3.36A3.36,3.36,0,0,1,0,96.506V3.36A3.36,3.36,0,0,1,3.36,0Z" transform="translate(959.192 406.707)" fill="none" stroke="#666" stroke-miterlimit="22.926" stroke-width="2"/>
+    <line id="Línea_158" data-name="Línea 158" x2="109.171" transform="translate(959.192 423.313)" fill="none" stroke="#666" stroke-miterlimit="22.926" stroke-width="2"/>
+    <line id="Línea_159" data-name="Línea 159" x2="6.414" y2="6.414" transform="translate(1051.688 411.719)" fill="none" stroke="#666" stroke-linecap="round" stroke-miterlimit="22.926" stroke-width="2"/>
+    <line id="Línea_160" data-name="Línea 160" x1="6.414" y2="6.414" transform="translate(1051.688 411.719)" fill="none" stroke="#666" stroke-linecap="round" stroke-miterlimit="22.926" stroke-width="2"/>
+    <line id="Línea_161" data-name="Línea 161" x1="7.491" transform="translate(1036.844 418.133)" fill="none" stroke="#666" stroke-linecap="round" stroke-miterlimit="22.926" stroke-width="2"/>
+    <rect id="Rectángulo_145" data-name="Rectángulo 145" width="28.107" height="26.365" rx="0.84" transform="translate(1025.007 433.842)" fill="none" stroke="#666" stroke-miterlimit="22.926" stroke-width="2"/>
+    <path id="Rectángulo_146" data-name="Rectángulo 146" d="M.839,0H27.267a.84.84,0,0,1,.84.84V25.525a.84.84,0,0,1-.84.84H.84a.84.84,0,0,1-.84-.84V.839A.839.839,0,0,1,.839,0Z" transform="translate(1025.007 471.031)" fill="none" stroke="#666" stroke-miterlimit="22.926" stroke-width="2"/>
+    <path id="Trazado_389" data-name="Trazado 389" d="M984.767,420.667V428.9H993c1,0,1.814.249,1.814.554v6.911c0,.3-.817.551-1.814.551h-8.232v8.232c0,1-.249,1.814-.552,1.814H977.3c-.3,0-.552-.815-.552-1.814v-8.232h-8.232c-1,0-1.814-.246-1.814-.551v-6.911c0-.3.815-.554,1.814-.554h8.232v-8.232c0-.995.249-1.814.552-1.814h6.913C984.518,418.853,984.767,419.673,984.767,420.667Z" transform="translate(8.732 14.117)" fill="#837dbd" stroke="#666" stroke-linejoin="round" stroke-width="2" fill-rule="evenodd"/>
+    <path id="Rectángulo_147" data-name="Rectángulo 147" d="M.839,0H27.268a.839.839,0,0,1,.839.839V25.525a.84.84,0,0,1-.84.84H.839A.839.839,0,0,1,0,25.526V.839A.839.839,0,0,1,.839,0Z" transform="translate(975.438 471.031)" fill="none" stroke="#666" stroke-miterlimit="22.926" stroke-width="2"/>
+  </g>
+</svg>
