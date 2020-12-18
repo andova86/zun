@@ -1,0 +1,63 @@
+.card-type {
+  display: flex;
+  flex-flow: column;
+  border: 1px solid #dee2e6;
+  justify-content: center;
+
+  align-items: center;
+
+  border-radius: 10px;
+  padding-left: 0;
+
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) !important;
+
+  width: 130px;
+  height: 130px;
+
+   @include media-breakpoint-down(sd) {
+    height: auto !important;
+      width: auto !important;
+
+  }
+
+  &:hover {
+
+    //border-color: $purplev !important;
+
+    .card-type-name {
+
+      color: $purplev !important;
+    }
+  }
+
+
+  img {
+    height: 60px;
+    width: 100%;
+  }
+
+  &-name {
+    font-size: calc(0.5em + 1vw);
+    padding-top: 10px;
+    margin-bottom: 0;
+    color: #818182;
+
+
+  }
+
+
+}
+
+.card-type.active {
+
+  border-color: $purplev !important;
+
+  .card-type-name {
+
+    color: $purplev !important;
+    font-weight: bold !important;
+
+
+  }
+}
+

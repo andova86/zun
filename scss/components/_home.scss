@@ -1,11 +1,11 @@
 .logo {
   img {
-    width: 200px;
-    height: 100px;
+    width: 150px;
+    height: 60px;
 
     @include media-breakpoint-down(sm) {
-      width: 130px;
-      height: 70px;
+      width: 100px;
+      height: 40px;
     }
   }
 }
